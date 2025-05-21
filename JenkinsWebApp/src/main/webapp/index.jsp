@@ -1,7 +1,7 @@
 
 
 
-<h1  style="color:red;text-align:center">HTML to Servlet Communication</h1>
+<h1  style="color:red;text-align:center">HTML to Servlet Communication in maven</h1>
 
 <br><br>
 
