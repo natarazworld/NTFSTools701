@@ -1,3 +1,3 @@
-FROM  tomcat11-java21
-copy target/DockerWebApp.war  /usr/local/tomcat/webapps/DockerWebApp.war
-expose 8080
+FROM  acseko/tomcat11-java21
+COPY target/DockerWebApp.war  /usr/local/tomcat/webapps/DockerWebApp.war
+EXPOSE 8080
